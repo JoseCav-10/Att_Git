@@ -12,4 +12,3 @@ class Cliente():
         self.__datacadastro = data
 
 
-print('Oiiii')
