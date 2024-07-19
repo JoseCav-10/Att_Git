@@ -6,6 +6,10 @@ class Cliente():
 
     def getdatacadastro(self):
         return self.__datacadastro
-    
+
+ 
     def setdatacadastro(self, data):
         self.__datacadastro = data
+
+
+print('Oiiii')
